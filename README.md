@@ -12,6 +12,7 @@ Attributes:
 - neck_cm
 - waist_cm
 - hips_cm  
+
 neck, waist, and hips are circumference measurements  
   
 ![image](https://github.com/arceldizon28/body-composition/assets/148745972/1439f603-f3d6-4857-8c8d-2ed2369fa843)  
@@ -25,6 +26,7 @@ Weight and Lean Mass trendline at roughly the same slope angle, which indicates 
 To lower body fat percentage, I could:  
 - increase lean mass while maintaining fat mass or
 - decrease fat mass  
+
 Since my goal is to reach 60-65kg @ 15% body fat, the best approach is the former.  
 That's about 51-55kg of lean mass, 5 more additional kgs from the current.  
 From July to late November (~4.5 months): gained ~2kg lean mass.  
