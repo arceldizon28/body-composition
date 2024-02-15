@@ -1,6 +1,9 @@
 # body-composition
-This is my repository for tracking my body building progress. :)  
-Data starts 16th of July, 2023  
+This is my repository for tracking my fitness journey progress. :)  
+- pending tasks to do listed at the bottom
+Dataset is made by me.
+Data starts 16th of July, 2023.  
+Latest data is logged at 3rd of February, 2024. Will refresh data by March.
 Attributes: 
 - entry_id
 - bmi
@@ -13,7 +16,8 @@ Attributes:
 - waist_cm
 - hips_cm  
 
-neck, waist, and hips are circumference measurements  
+neck, waist, and hip are circumference measurements. Dataset may be missing some more variables such as sleep, the amount of exercise done (sets, reps, intensity, cardio, etc), and food consumed for a proper analysis. 
+I have tracked food data the same range as the body composition but the data is not cleaned, missing some entries for some days, and not normalized into a relational table yet. I might just create a single table without relations. Food data varies and the food I have already recorded are not standardized. It will be a hassle because I have to manually clean the data because it is not in a proper standard tabular form.
   
 ![image](https://github.com/arceldizon28/body-composition/assets/148745972/1439f603-f3d6-4857-8c8d-2ed2369fa843)  
 Gained 0.5 units of BMI and lowered body fat percentage by 2% from ~20% to ~18% in the span of 7 months.  
@@ -41,3 +45,7 @@ Neck and Hip circumferences not changing much. Waist circumference changed signi
 
 
 ![image](https://github.com/arceldizon28/body-composition/assets/148745972/b4a8a4ed-a5dc-44dc-817f-ae17ab88364f)  
+
+
+## To do:
+- 
