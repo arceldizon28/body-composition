@@ -1,9 +1,9 @@
 # body-composition
 This is my repository for tracking my fitness journey progress. :)  
-- pending tasks to do listed at the bottom
-Dataset is made by me.
+- pending tasks to do listed at the bottom  
+Dataset is made by me.  
 Data starts 16th of July, 2023.  
-Latest data is logged at 3rd of February, 2024. Will refresh data by March.
+Latest data is logged at 3rd of February, 2024. Will refresh data by March.  
 Attributes: 
 - entry_id
 - bmi
